@@ -2,7 +2,7 @@
 
 Valuation and transaction analysis of a UK textile rental and workwear
 business, built from a three-statement model on Capital IQ filings
-FY2021 to FY2025, forecast to FY2030. Both documents run off the same
+FY2021 to FY2025, forecast to FY2030. All three documents run off the same
 model core.
 
 ## Documents
@@ -25,6 +25,14 @@ financial buyer and the board overlap. The binding constraint is debt
 capacity rather than operating performance. Entry leverage of 3.0x on
 EBITDA is 5.39x on EBITDA less maintenance capex, because roughly £74m
 of £170m EBITDA is rental stock replacement.
+
+JSG_Credit_Assessment.pdf
+
+One-page credit assessment. Altman Z-score of 2.90 places JSG in the
+grey zone; a Merton structural model puts it 6.1 standard deviations
+from default. The two disagree because the Z-score penalises asset
+intensity, and the covenant test is the one that binds: EBITDA can fall
+62% before the leverage covenant is breached.
 
 ## Method
 
